@@ -3,6 +3,9 @@ FScript
 
 FScript o FoxScript es un pequeño lenguaje de scripting desarrollado 100% en Visual Foxpro 9.0 con el único objetivo de _Personalizar_ los formularios en tiempo de ejecución.
 
+## Introducción
+Para ver una introducción sigue este [enlace](https://youtu.be/7JRMzraANPA)
+
 ## Problemática
 En alguna ocasión nos habrá tocado modificar uno o varios formularios para aquellos clientes con requerimientos específicos, la acción común es hacer la modificación y compilar el proyecto pero luego aparece otro cliente con otro requerimiento sobre el mismo formulario y repetimos el proceso, luego aparece otro cliente y ya el código comienza a oler mal, entonces pensamos en crear códigos para los clientes y meterlo dentro de un `DO CASE` para personalizar según el cliente; tarde nos damos cuenta que terminamos con un pedazo de código _inmantenible_ que hasta nos resulta perezoso continuar.
 
