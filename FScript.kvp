@@ -1,0 +1,4 @@
+name = "FScript"
+type = "prg"
+repo = "https://raw.githubusercontent.com/Irwin1985/FScript/master/fscript.prg"
+version = "0.0.1"
